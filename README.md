@@ -3,13 +3,14 @@ This project demonstrates the fundamental processes of sampling, quantization, a
 
 Key Features:
 
-Sampling analog signals at various rates (under, over, and at Nyquist rate)
+  Sampling analog signals at various rates (under, over, and at Nyquist rate)
 
-Uniform quantization of sampled signals
+  Uniform quantization of sampled signals
 
-Reconstruction of the original signal using interpolation techniques
+  Reconstruction of the original signal using interpolation techniques
 
-Visualization and comparison between original and reconstructed signals
+  Visualization and comparison between original and reconstructed signals
 
 Tools: MATLAB
+
 Topics Covered: Sampling Theorem, Aliasing, Quantization, Interpolation, Signal Reconstruction
